@@ -19,14 +19,15 @@ Web Developer
  ### Socials  <p align="left"> <a href="https://www.github.com/jweah2385" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
 
+<details>
+<summary><h3> My Journey</h3></summary>
+ My web development journey began with a Java course in college, sparking a deep interest in the intricacies of programming languages and the development of seamless web applications. Having strengthened my foundations in computer science, I furthered my expertise at a UNCC bootcamp, where I focused on full-stack development using the MERN stack in collaboration with fellow developers. Now, I am honing skills in React, JavaScript, and NoSQL databases, with a long-term goal of merging my passion for language and communication with software engineering. This fusion of interests, particularly in foreign languages and linguistics, represents the pinnacle of my career aspirations.</details>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/jweah2385"><img src="https://github-readme-stats.vercel.app/api?username=jweah2385&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="jweah2385's GitHub stats" /></a>
 <a href="http://www.github.com/jweah2385"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jweah2385&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/jweah2385" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jweah2385&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<details>
-<summary><h3> My Journey</h3></summary>
- My web development journey began with a Java course in college, sparking a deep interest in the intricacies of programming languages and the development of seamless web applications. Having strengthened my foundations in computer science, I furthered my expertise at a UNCC bootcamp, where I focused on full-stack development using the MERN stack in collaboration with fellow developers. Now, I am honing skills in React, JavaScript, and NoSQL databases, with a long-term goal of merging my passion for language and communication with software engineering. This fusion of interests, particularly in foreign languages and linguistics, represents the pinnacle of my career aspirations.</details>
 
 
