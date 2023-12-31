@@ -9,8 +9,8 @@ Web Developer
 *  🌍  I'm based in North Carolina
 *  🖥️  See my portfolio at [My Portfolio](https://portfolio-dun-one-25.vercel.app/)
 *  ✉️  You can contact me at [j\_weah@uncg.edu](mailto:j_weah@uncg.edu)
-*  🚀  I'm currently working on [Portfolio Page](http://github.com/jweah2385/portfolio)
-*  🧠  I'm learning React, GraphQL
+*  🚀  I'm currently working on [Language App](https://github.com/jweah2385/language-learning-app)
+*  🧠  I'm learning GraphQL
 *  🤝  I'm open to collaborating on a vast variety of web pages
 
 ### Skills  
