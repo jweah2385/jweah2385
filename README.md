@@ -1,9 +1,6 @@
 Hi 👋 My name is James Weah
 =========================== 
 
-Web Developer
--------------  
-
 👋 Hey! I'm James
 *  🌍  I'm based in North Carolina
 *  🖥️  See my portfolio at [My Portfolio](https://portfolio-dun-one-25.vercel.app/)
