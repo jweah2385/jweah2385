@@ -4,8 +4,7 @@ Hi 👋 My name is James Weah
 Web Developer
 -------------  
 
-👋 Hey! I'm James, a coding enthusiast passionate about web development. Inspired by linguistic intricacies and the wonders of science and biology, I'm diving into HTML, CSS, and JavaScript to craft captivating websites. Constantly exploring the connections between coding and natural systems, I'm eager to learn and create innovative digital solutions. Join me on this exciting coding journey! 
-
+👋 Hey! I'm James
 *  🌍  I'm based in North Carolina
 *  🖥️  See my portfolio at [My Portfolio](https://portfolio-dun-one-25.vercel.app/)
 *  ✉️  You can contact me at [j\_weah@uncg.edu](mailto:j_weah@uncg.edu)
